@@ -1,34 +1,28 @@
-# Provital – Lifestyle Wellness Platform 🌿
+# 🌿 Provital – Lifestyle Wellness Platform
 
-Provital is a modern web application designed to promote **lifestyle medicine** through a visually engaging and informative interface. It features interactive UI components, seamless animations, and a clean design to help users explore the six pillars of lifestyle wellness.
+**Provital** is a modern, interactive web platform designed to promote **lifestyle medicine** through an engaging user experience. It highlights the **six pillars of wellness** with a clean, responsive design, subtle animations, and intuitive navigation to educate and empower users on preventive care and chronic disease reversal.
+
+---
 
 ## ✨ Features
 
-- 🔄 Auto-scrolling wellness cards (nutrition, physical activity, etc.)
-- 🔍 Floating search bar for easy navigation
-- 🎨 Modern UI with smooth animations
-- 🧘‍♀️ Focus on **preventive care** and **chronic disease reversal**
+- 🔄 **Auto-scrolling wellness cards** covering nutrition, physical activity, and more  
+- 🔍 **Floating search bar** for seamless content discovery  
+- 🎨 **Modern UI** with smooth transitions and animations  
+- 🧘‍♀️ Focused on **lifestyle-driven health transformation**
+
+---
 
 ## 🧱 Tech Stack
 
-- **Frontend**: React.js (CRA)
-- **Styling**: CSS3 (Responsive), Custom Animations
-- **Assets**: Optimized for performance
-- **Deployment**: Netlify (Live Preview)
+- **Frontend:** React.js (CRA)  
+- **Styling:** CSS3 with responsive design and custom animations  
+- **Assets:** Optimized for performance  
+- **Deployment:** Netlify  
 
-📌 Deployment
-The app is deployed on Netlify. You can view it live here:
-🔗 https://celebrated-scone-0b4d38.netlify.app/
+---
 
-## 🚀 How to Run Locally
+## 🚀 Live Demo
 
-```bash
-# Clone the repo
-git clone https://github.com/charuvii/provital-website.git
-cd provital-website
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
+View the live application here:  
+🔗 [https://celebrated-scone-0b4d38.netlify.app/](https://celebrated-scone-0b4d38.netlify.app/)
